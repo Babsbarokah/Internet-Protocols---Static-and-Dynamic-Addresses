@@ -48,6 +48,8 @@ I reviewed the customer's setup and replicated the issue by launching an EC2 ins
 To resolve the issue, I allocated and associated an Elastic IP with the EC2 instance:
 1. **Allocated an Elastic IP** via the EC2 dashboard under *Network & Security > Elastic IPs*.
 
+<img width="1440" alt="Screenshot 2025-03-23 at 23 39 35" src="https://github.com/user-attachments/assets/256032a6-2236-448e-980e-30ed37c85925" />
+
 
 
 --- 
