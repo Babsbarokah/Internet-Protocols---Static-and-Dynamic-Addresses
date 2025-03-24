@@ -58,6 +58,8 @@ To resolve the issue, I allocated and associated an Elastic IP with the EC2 inst
 <img width="1432" alt="Screenshot 2025-03-24 at 00 11 16" src="https://github.com/user-attachments/assets/09fd59e3-7269-4d1e-a409-0c8ce00e6220" />
 
 
+--- 
+
 <img width="1438" alt="Screenshot 2025-03-23 at 23 43 33" src="https://github.com/user-attachments/assets/cbfdd910-44ee-4d48-b1e8-f3878b061be8" />
 
 
