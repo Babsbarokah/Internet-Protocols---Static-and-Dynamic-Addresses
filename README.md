@@ -50,11 +50,13 @@ To resolve the issue, I allocated and associated an Elastic IP with the EC2 inst
 
 <img width="1440" alt="Screenshot 2025-03-23 at 23 39 35" src="https://github.com/user-attachments/assets/256032a6-2236-448e-980e-30ed37c85925" />
 
-<img width="1432" alt="Screenshot 2025-03-24 at 00 11 16" src="https://github.com/user-attachments/assets/09fd59e3-7269-4d1e-a409-0c8ce00e6220" />
 
 
 --- 
 2. **Associated the Elastic IP** with the problematic EC2 instance.
+
+<img width="1432" alt="Screenshot 2025-03-24 at 00 11 16" src="https://github.com/user-attachments/assets/09fd59e3-7269-4d1e-a409-0c8ce00e6220" />
+
 
 <img width="1438" alt="Screenshot 2025-03-23 at 23 43 33" src="https://github.com/user-attachments/assets/cbfdd910-44ee-4d48-b1e8-f3878b061be8" />
 
